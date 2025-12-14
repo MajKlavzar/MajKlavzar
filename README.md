@@ -1,6 +1,6 @@
 ## About me:
-highschool junior
-studyng CS
+-highschool junior
+-studyng CS
 
 <!--
 **MajKlavzar/MajKlavzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
